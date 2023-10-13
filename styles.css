@@ -29,3 +29,9 @@ body {
     object-fit: cover;
 /* thx free code camp */
 }
+.fireshit {
+    position: relative;
+    text-align: center;
+    color: white;
+    /* thanks w3 schools! */
+}
