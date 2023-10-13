@@ -18,6 +18,8 @@ body {
     grid-template-rows: repeat(8, 5vw);
     grid-gap: 15px;
     place-items: center;
+    align-self: center;
+    vertical-align: middle;
     align-items: center;
     align-content: center;
     /* thx free code camp */
