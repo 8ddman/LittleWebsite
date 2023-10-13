@@ -10,3 +10,10 @@ body {
 .row {
     flex-wrap: wrap;
 }
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 5vw);
+    grid-gap: 15px;
+    /* thx free code camp */
+}
