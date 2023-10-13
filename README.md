@@ -1,5 +1,5 @@
 # Gay
-I love women and I am killer of men I, gonna k*ll myself 
 
+IM GONNA BECONME THE GOD OF THE NEW WORLD 
 
 Why the FUCK am I helping with this
