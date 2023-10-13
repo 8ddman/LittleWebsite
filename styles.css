@@ -6,8 +6,6 @@ body {
      flex: 50%; */
      margin-left: auto; 
      margin-right: auto;
-     border-radius: 100px;
-     border-color: black;
 }
 /*.row {
     flex-wrap: wrap;
