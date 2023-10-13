@@ -1,5 +1,5 @@
 # Gay
 
-IM GONNA BECONME THE GOD OF THE NEW WORLD 
+"IM GONNA BECONME THE GOD OF THE NEW WORLD" -8DDMAN 
 
-Why the FUCK am I helping with this
+"Why the FUCK am I helping with this" -Moki
