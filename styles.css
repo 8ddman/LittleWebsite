@@ -4,12 +4,12 @@ body {
 .imggrid {
 /*     display: flex;
      flex: 50%; */
-/*     margin-left: auto; 
-     margin-right: auto; */
+     margin-left: auto; 
+     margin-right: auto;
 }
-.row {
+/*.row {
     flex-wrap: wrap;
-}
+}*/
 .gallery {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
