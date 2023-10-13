@@ -35,3 +35,10 @@ body {
     color: white;
     /* thanks w3 schools! */
 }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* thanks w3 schools! */
+}
