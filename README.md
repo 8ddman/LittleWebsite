@@ -1,4 +1,4 @@
-# Gay
+# amongus
 
 "IM GONNA BECONME THE GOD OF THE NEW WORLD" -8MAN 
 
